@@ -1,0 +1,9 @@
+Baseline design: fn = 356 kHz, zeta = 0.7, R = 6261 ohm, C = 100 pF
+Jitter-optimal fn ~ 643 kHz, total RMS jitter ~ 13.35 ps
+
+fn (kHz) | settle 1% (us) | overshoot (%) | PM (deg) | jitter (ps)
+     100 |           8.18 |          21.0 |     65.2 | 23.98
+     200 |           4.09 |          21.0 |     65.2 | 17.52
+     356 |           2.30 |          21.0 |     65.2 | 14.38
+     600 |           1.36 |          21.0 |     65.2 | 13.35
+    1000 |           0.82 |          21.0 |     65.2 | 13.96

@@ -1,0 +1,10 @@
+Lock streaks start at (us): [3.0, 32.0, 51.53, 56.58]
+Initial acquisition lock time: 3.00 us
+Final VCO frequency: 105.00 MHz (target 105 MHz after the reference step)
+
+fn (kHz) | simulated settle to +/-1 MHz (us)
+     100 |     5.80
+     200 |     2.90
+     356 |     1.60
+     600 |     0.90
+    1000 |     0.50
