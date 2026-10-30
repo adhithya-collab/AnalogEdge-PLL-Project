@@ -1,0 +1,726 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 585
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 22 Tf
+25.2999999999999972 TL
+0.071 0.094 0.149 rg
+45.354330708661422 779.5277952755905062 Td
+(Project Export) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.29 0.333 0.408 rg
+45.354330708661422 751.1813385826771992 Td
+(Domain: VLSI Export: Single project Projects: 1 Generated: 10/27/2026, 4:08:24 PM) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+45.354330708661422 25.5118110236220446 Td
+(Persevex Project Dashboard) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+509.2856692913384791 25.5118110236220446 Td
+(Page 1 of 3) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 5270
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.071 0.094 0.149 rg
+45.354330708661422 785.1970866141732586 Td
+(1. AnalogEdge - PLL Behavioral Modeling and Verification) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.392 0.455 0.545 rg
+45.354330708661422 749.7640157480315111 Td
+(Domain: VLSI Slug: analogedge-pll-behavioral-modeling-and-verification-vlsi Created: 4/12/2026) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.055 0.341 0.267 rg
+45.354330708661422 720.0002362204724022 Td
+(Summary) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 702.9923622047243725 Td
+(Develop a mixed-signal PLL project with behavioral models, lock-time analysis, and jitter sensitivity) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 688.2522047244094665 Td
+(characterization.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.055 0.341 0.267 rg
+45.354330708661422 657.9214960629921052 Td
+(Full Content) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.071 0.094 0.149 rg
+45.354330708661422 632.4096850393700606 Td
+(Project Overview) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 600.3781889763779418 Td
+(Case Study: AnalogEdge Create a practical mixed-signal verification project focused on PLL behavior and clock) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 585.0711023622046696 Td
+(quality constraints.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 551.3388188976377933 Td
+(---) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.071 0.094 0.149 rg
+45.354330708661422 509.1025984251967316 Td
+(Key Objectives & Technical Architecture) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.071 0.094 0.149 rg
+45.354330708661422 468.5671653543305979 Td
+(Phase 1: PLL Block Modeling) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 440.7876377952754297 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 440.7876377952754297 Td
+(Model PFD, charge pump, loop filter, and VCO behavior.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 422.6459055118109518 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 422.6459055118109518 Td
+(Define target frequency and lock conditions.) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.071 0.094 0.149 rg
+45.354330708661422 391.7482677165353948 Td
+(Phase 2: Dynamic Simulation) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 363.9687401574802834 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 363.9687401574802834 Td
+(Measure lock time and frequency settling.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 345.8270078740157487 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 345.8270078740157487 Td
+(Evaluate phase error under perturbations.) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.071 0.094 0.149 rg
+45.354330708661422 314.9293700787402486 Td
+(Phase 3: Noise and Jitter Sensitivity) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 287.1498425196850803 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 287.1498425196850803 Td
+(Run parameter sweeps for loop bandwidth and damping.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 269.0081102362205456 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 269.0081102362205456 Td
+(Analyze jitter and stability tradeoffs.) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.071 0.094 0.149 rg
+45.354330708661422 238.1104724409450455 Td
+(Phase 4: Integration Guidelines) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 210.3309448818898773 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 210.3309448818898773 Td
+(Generate interface and clocking recommendations.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 192.1892125984253425 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 192.1892125984253425 Td
+(Document model limitations and assumptions.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 169.7955118110238573 Td
+(---) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.071 0.094 0.149 rg
+45.354330708661422 127.5592913385829661 Td
+(Prerequisites) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 95.5277952755907336 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 95.5277952755907336 Td
+(Analog/mixed-signal fundamentals) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 77.3860629921261989 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 77.3860629921261989 Td
+(Control-loop basics) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+45.354330708661422 25.5118110236220446 Td
+(Persevex Project Dashboard) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+509.2856692913384791 25.5118110236220446 Td
+(Page 2 of 3) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 2759
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 785.1970866141732586 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 785.1970866141732586 Td
+(SPICE/behavioral simulation) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 762.8033858267716596 Td
+(---) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.071 0.094 0.149 rg
+45.354330708661422 720.5671653543306547 Td
+(Deliverables) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 688.5356692913385359 Td
+(1.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 688.5356692913385359 Td
+(PLL behavioral model files.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 670.3939370078740012 Td
+(2.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 670.3939370078740012 Td
+(Lock/jitter characterization plots.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 652.2522047244094665 Td
+(3.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 652.2522047244094665 Td
+(Integration and design recommendation report.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.141 0.165 0.22 rg
+45.354330708661422 629.8585039370077538 Td
+(---) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.071 0.094 0.149 rg
+45.354330708661422 587.6222834645668627 Td
+(Project Timeline & Deadlines) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 555.5907874015747439 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 555.5907874015747439 Td
+(Week 1: Block model setup.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 537.4490551181102092 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 537.4490551181102092 Td
+(Week 2: Lock behavior simulation.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 519.3073228346455608 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 519.3073228346455608 Td
+(Week 3: Jitter and robustness analysis.) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+59.5275590551181182 501.1655905511809692 Td
+(-) Tj
+ET
+BT
+/F1 9.8 Tf
+11.2699999999999996 TL
+0.141 0.165 0.22 rg
+82.2047244094488292 501.1655905511809692 Td
+(Week 4: Final report and handoff.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+45.354330708661422 25.5118110236220446 Td
+(Persevex Project Dashboard) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+509.2856692913384791 25.5118110236220446 Td
+(Page 3 of 3) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R ]
+/Count 3
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 9 0 R
+/F2 10 0 R
+/F3 11 0 R
+/F4 12 0 R
+/F5 13 0 R
+/F6 14 0 R
+/F7 15 0 R
+/F8 16 0 R
+/F9 17 0 R
+/F10 18 0 R
+/F11 19 0 R
+/F12 20 0 R
+/F13 21 0 R
+/F14 22 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+23 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20261027160824+05'30')
+>>
+endobj
+24 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000009195 00000 n 
+0000011028 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000000788 00000 n 
+0000000925 00000 n 
+0000006247 00000 n 
+0000006384 00000 n 
+0000009264 00000 n 
+0000009389 00000 n 
+0000009520 00000 n 
+0000009654 00000 n 
+0000009792 00000 n 
+0000009916 00000 n 
+0000010045 00000 n 
+0000010177 00000 n 
+0000010313 00000 n 
+0000010441 00000 n 
+0000010568 00000 n 
+0000010697 00000 n 
+0000010830 00000 n 
+0000010932 00000 n 
+0000011280 00000 n 
+0000011366 00000 n 
+trailer
+<<
+/Size 25
+/Root 24 0 R
+/Info 23 0 R
+/ID [ <56377EAA0EAA8EDE30500B3A8B6F7C88> <56377EAA0EAA8EDE30500B3A8B6F7C88> ]
+>>
+startxref
+11470
+%%EOF
