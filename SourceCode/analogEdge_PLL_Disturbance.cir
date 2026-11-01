@@ -1,0 +1,47 @@
+* AnalogEdge - Charge-Pump PLL (10 MHz ref, /10, 100 MHz out)
+* PFD (SR-latch gates) + Charge pump + R/C loop filter + VCO + /10
+
+.subckt NOR2 a b y
+Bn n 0 V=1.8*(1-u(V(a)-0.9))*(1-u(V(b)-0.9))
+Rg n y 100
+Cg y 0 0.2p
+.ends
+
+.subckt SRL s r q qb
+X1 r qb q NOR2
+X2 s q qb NOR2
+.ends
+
+.subckt EDGE in out
+Rd in d 1k
+Cd d 0 2p
+Be out 0 V=1.8*u(V(in)-0.9)*(1-u(V(d)-0.9))
+.ends
+
+Vref ref 0 PULSE(0 1.8 5n 1n 1n 50n 100n)
+
+XER ref setr EDGE
+XEF fb setf EDGE
+XLU setr rst up upb SRL
+XLD setf rst dn dnb SRL
+Brst rstr 0 V=1.8*u(V(up)-0.9)*u(V(dn)-0.9)
+Rr rstr rst 1k
+Cr rst 0 4p
+
+Bcp 0 vc I=100u*(u(V(up)-0.9)-u(V(dn)-0.9))
+
+C2 vc 0 25p
+R1 vc n1 3.1k
+C1 n1 0 400p
+
+Bpd 0 pd I=1e8*max(min(V(vc)-0.9,0.7),-0.7)
+Cpd pd 0 1
+Rpd pd 0 1e9
+Bvco vco 0 V=0.9+0.9*tanh(20*sin(2*pi*(1e8*time+V(pd))))
+
+Bdiv fb 0 V=0.9+0.9*tanh(20*sin(2*pi*(1e8*time+V(pd))/10))
+Idist 0 vc PULSE(0 50u 10u 1n 1n 200n 1)
+.ic V(vc)=0.6 V(n1)=0.6 V(pd)=0
+.tran 0 20u 0 0.25n
+.meas TRAN vc_final AVG V(vc) FROM=18u TO=20u
+.end
